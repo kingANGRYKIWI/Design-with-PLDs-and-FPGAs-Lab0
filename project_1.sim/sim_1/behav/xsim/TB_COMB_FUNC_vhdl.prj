@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Lab 0 spring 2024/comb_function.vhd" \
+"../../../../Lab 0 spring 2024/tb_comb_function.vhd" \
+
+# Do not sort compile order
+nosort
